@@ -1,0 +1,32 @@
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #111;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: rgb(80, 217, 255);
+  }
+
+.video{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+
+}
+.pic{
+    padding-bottom: 3rem;   
+}
+.anchor{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
